@@ -37,3 +37,7 @@ Note that at this time, the `go2go playground` is the only platform that to run 
 Since the [go2go-playground](https://go2goplay.golang.org/) is the only way to write go-generic-style code, 
 writing everything in the same package will be much easier to merge them into a single file and do testing
 there. The package structure is subject to change after the generic feature is released.
+
+### Format
+
+`go fmt` is not available at this time, as the generic syntax will be recognized as syntax error. The code format will be articulated after the geenric feature is released.
