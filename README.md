@@ -17,6 +17,7 @@ Since the design might be subject to change, this repo will be updated according
 - [HashSet](set.go) (a wrapper of `map[T]struct{}`)
 - [PriortyQueue](priorityqueue.go)
 - [OrderedMap](orderedmap.go) (hash map with insertion order preserved, e.g. can be used as LRU-cache)
+- [OrderedSet](orderedset.go)
 - [AVLTree](avltree.go)
 
 ## Test Script
@@ -30,7 +31,6 @@ Note that at this time, the `go2go playground` is the only platform that to run 
 ### More data structures
 - Red Black Tree
 - `SortedMap` and `SortedSet` (need benchmark of AVL Tree and Red Black Tree to decide which one to use)
-- `OrderedSet`
 
 ### Iterator of Containers
 
