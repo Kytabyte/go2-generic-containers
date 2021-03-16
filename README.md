@@ -21,7 +21,7 @@ Since the design might be subject to change, this repo will be updated according
 
 ## Test Script
 
-My merged test script can be found in this [go2go-playground](https://go2goplay.golang.org/p/ZtwdpwK89DG).
+My merged test script can be found in this [go2go-playground](https://go2goplay.golang.org/p/NIaoQEPkmGe).
 
 Note that at this time, the `go2go playground` is the only platform that to run go-generic-style code...
 
@@ -31,6 +31,10 @@ Note that at this time, the `go2go playground` is the only platform that to run 
 - Red Black Tree
 - `SortedMap` and `SortedSet` (need benchmark of AVL Tree and Red Black Tree to decide which one to use)
 - `OrderedSet`
+
+### Iterator of Containers
+
+A unified iterator interface for all containers is needed...
 
 ### Package structure
 
