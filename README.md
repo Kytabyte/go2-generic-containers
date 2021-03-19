@@ -44,4 +44,4 @@ there. The package structure is subject to change after the generic feature is r
 
 ### Format
 
-`go fmt` is not available at this time, as the generic syntax will be recognized as syntax error. The code format will be articulated after the geenric feature is released.
+`go fmt` is not available at this time, as the generic syntax will be recognized as syntax error. The code format will be updated after the geenric feature is released.
