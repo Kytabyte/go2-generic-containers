@@ -1,8 +1,8 @@
 # Go2 Generic Containers
 
 This is a repo to implement some data structures in go's generic syntax. 
-The go generic is actually under development and the draft design can be 
-found [here](https://go.googlesource.com/proposal/+/refs/heads/master/design/go2draft-type-parameters.md).
+The go generic is actually under development and the proposal can be 
+found [here](https://go.googlesource.com/proposal/+/refs/heads/master/design/43651-type-parameters.md).
 
 Since the design might be subject to change, this repo will be updated accordingly.
 
